@@ -1,0 +1,14 @@
+# Ignore Obsidian workspace settings and metadata
+.obsidian/
+.obsidian/workspace.json
+.obsidian/plugins/
+
+# Ignore private and personal notes
+_Private/
+
+# Ignore system or temporary files
+.stfolder/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
