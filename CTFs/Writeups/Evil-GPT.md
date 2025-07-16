@@ -58,6 +58,7 @@ Evil-GPT is a CTF challenge focused on attacking an AI-powered shell interface. 
 	- **Objective:** Test if the AI's prompt guardrails actually restrict sensitive actions. We saw in the earlier screenshot that running `whoami` showed the AI running as `root`
 	- **Action:** enter a direct, natural prompt requesting the contents of the supposed target flag file.
 	- ![](Images/Evil-GPT/Evil-GPT-Flag.png)
+	- ![](../../Images/Evil-GPT/Evil-GPT-Flag.png)
 	- **Observation:** The service responded and successfully provided the flag.
 		- **Implication:** The LLM did not filter or restrict this sensitive request, indicating a critical lack of backend validation or allow-listing. Simply asking was sufficient to bypass all intended protections. This makes the vulnerability even more clear and demonstrates the fundamental security risk of relying solely on LLM "instructions" for protection.
 -----
