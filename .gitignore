@@ -8,6 +8,7 @@ _Private/
 
 # Ignore system or temporary files
 .stfolder/
+.stfolder*
 .DS_Store
 Thumbs.db
 *.bak
