@@ -1,13 +1,36 @@
 ---
-Usage Phase:
-  - Privilege Escalation
-  - Exploitation
-Common Use Cases:
-  - Reverse Shell
-  - File Transfer
-  - Banner Grabbing
-  - Simple Port Scan
-Interface Type: CLI
+Usage Phase: 
+Common Use Cases: 
+Interface Type: 
+OS:
 ---
+---
+# Brief
 
 
+---
+# Primary Syntax / Example Usage
+
+
+---
+# Signals of Presence
+
+
+---
+# Installation
+
+
+---
+# Notes
+
+
+---
+# Related Techniques
+
+
+---
+# References
+
+
+---
+# Related CTFs
