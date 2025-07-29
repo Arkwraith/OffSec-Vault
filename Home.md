@@ -23,3 +23,8 @@ table file.name, UsedIn[0]
 from "Techniques"
 sort file.name
 ```
+
+
+
+
+![](Images/Pasted%20image%2020250720175830.png)
